@@ -1,5 +1,15 @@
 # Portfolio
 ---
+## Wine Quality Report
+
+### Machine Learning Analysis of Red Wine Quality
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Machine-Learning/blob/main/Linear%20Regression%20and%20Ordinary%20Least%20Squares/WineQuality_LinearRegression_OLS.ipynb)
+
+**Learning Outcomes:** Implemented machine learning techniques such as linear regression with gradient descent and ordinary least squares (OLS), and developed a Multilayer Perceptron (MLP) using scikitlearn to analyze and interpret data regarding wine quality Employed analysis methods utilizing test and training data, examining critical components such as fixed acidity, citric acid, residual sugar, pH, and sulphates to accurately predict alcohol content in red wine.
+
+
+
 ## Natural Language Processing
 
 ### CS224n: Natural Language Processing with Deep Learning
