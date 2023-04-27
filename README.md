@@ -1,1 +1,1 @@
-Check out the minimal portfolio at https://Michael96Torres.github.io/minimal-portfolio
+Check out my portfolio website at https://michael96torres.github.io/
