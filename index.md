@@ -6,8 +6,22 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Machine-Learning/blob/main/Linear%20Regression%20and%20Ordinary%20Least%20Squares/WineQuality_LinearRegression_OLS.ipynb)
 
-**Learning Outcomes:** Implemented machine learning techniques such as linear regression with gradient descent and ordinary least squares (OLS), and developed a Multilayer Perceptron (MLP) using scikitlearn to analyze and interpret data regarding wine quality Employed analysis methods utilizing test and training data, examining critical components such as fixed acidity, citric acid, residual sugar, pH, and sulphates to accurately predict alcohol content in red wine.
+**Learning Outcomes:** Implemented machine learning techniques such as linear regression with gradient descent and ordinary least squares (OLS), and developed a Multilayer Perceptron (MLP) using scikitlearn to analyze and interpret data regarding wine quality.  Employed analysis methods utilizing test and training data, examining critical components such as fixed acidity, citric acid, residual sugar, pH, and sulphates to accurately predict alcohol content in red wine.
 
+
+## Interactive Sales Dashboards
+
+### Data Visualizations In Excel
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Data-Visualizations)
+
+**Learning Outcomes:** Designed an engaging and interactive sales dashboard, featuring hyperlinks to navigate between different tabs and highlighting key performance indicators (KPIs).
+Produced a range of dynamic charts and visuals, including a map chart, radar chart, line
+chart and doughnut chart to provide critical insights into a company's strategic, financial,
+and operational performance
+
+<center><img src="images/interactive_dashboard.png"/></center>
+<center><img src="images/customer_sales.png"/></center>
 
 
 ## Natural Language Processing
