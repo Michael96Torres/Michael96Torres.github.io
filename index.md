@@ -9,9 +9,9 @@
 **Learning Outcomes:** Implemented machine learning techniques such as linear regression with gradient descent and ordinary least squares (OLS), and developed a Multilayer Perceptron (MLP) using scikitlearn to analyze and interpret data regarding wine quality.  Employed analysis methods utilizing test and training data, examining critical components such as fixed acidity, citric acid, residual sugar, pH, and sulphates to accurately predict alcohol content in red wine.
 
 
-## Interactive Sales Dashboards
+## Data Visualizations In Excel
 
-### Data Visualizations In Excel
+### Interactive Sales Dashboards
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Data-Visualizations)
 
