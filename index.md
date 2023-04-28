@@ -17,7 +17,7 @@
 
 <center><img src="images/interactive_dashboard.png"/></center>
 
-**Learning Outcomes:** Designed an engaging and interactive sales dashboard, featuring hyperlinks to navigate between different tabs and highlighting key performance indicators (KPIs).
+Designed engaging and interactive sales dashboards, featuring hyperlinks to navigate between different tabs and highlighting key performance indicators (KPIs).
 Produced a range of dynamic charts and visuals, including a map chart, radar chart, line
 chart and doughnut chart to provide critical insights into a company's strategic, financial,
 and operational performance
