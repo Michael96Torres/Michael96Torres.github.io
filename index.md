@@ -15,12 +15,13 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Data-Visualizations)
 
+<center><img src="images/interactive_dashboard.png"/></center>
+
 **Learning Outcomes:** Designed an engaging and interactive sales dashboard, featuring hyperlinks to navigate between different tabs and highlighting key performance indicators (KPIs).
 Produced a range of dynamic charts and visuals, including a map chart, radar chart, line
 chart and doughnut chart to provide critical insights into a company's strategic, financial,
 and operational performance
 
-<center><img src="images/interactive_dashboard.png"/></center>
 <center><img src="images/customer_sales.png"/></center>
 
 
