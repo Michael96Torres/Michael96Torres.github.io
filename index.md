@@ -21,7 +21,6 @@ Produced a range of dynamic charts and visuals, including a map chart, radar cha
 chart and doughnut chart to provide critical insights into a company's strategic, financial,
 and operational performance
 
----<center><img src="images/customer_sales.png"/></center>
 <center><img src="images/interactive_dashboard.png"/></center>
----
+
 <center>© 2023 Michael Torres. Powered by Jekyll and the Minimal Theme.</center>
