@@ -9,6 +9,8 @@
 
 Using over 50,000 Amazon reviews, I conducted sentiment analysis in python using VADER (Valence Aware Dictionary and Entiment Reasoner) using the "bag of words" approach.  With the Natural Language Toolkit (NLTK), VADER Sentiment Scoring was used to assign scores to the reviews.  These reviews were then plotted to show the varying overall sentiment scores of 1-5 star reviews.
 
+<center><img src="images/Sentiment_Reviews.png"/></center>
+
 
 ## Wine Quality Report
 
