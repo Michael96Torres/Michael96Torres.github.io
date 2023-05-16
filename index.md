@@ -7,7 +7,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Michael96Torres/Python/blob/main/Amazon_Reviews_Sentiment_Analysis/Amazon_Reviews_Sentiment_Analysis.ipynb)
 
-Using over 50,000 Amazon reviews, I conducted sentiment analysis in python using VADER (Valence Aware Dictionary and Entiment Reasoner) using the "bag of words" approach.  Using the Natural Language Toolkit (NLTK), we conduct VADER Sentiment Scoring to provide scores to the reviews.  These reviews were then plotted to show the various overall sentiment scores of 1-5 star reviews.
+Using over 50,000 Amazon reviews, I conducted sentiment analysis in python using VADER (Valence Aware Dictionary and Entiment Reasoner) using the "bag of words" approach.  With the Natural Language Toolkit (NLTK), VADER Sentiment Scoring was used to assign scores to the reviews.  These reviews were then plotted to show the various overall sentiment scores of 1-5 star reviews.
 
 
 ## Wine Quality Report
