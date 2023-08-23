@@ -19,9 +19,9 @@ description:
 
 
 navigation:
-  - (title: "Projects")
-  - (title: "About Me")
-  - (title: "Website")
+  - {title: "Projects"}
+  - {title: "About Me"}
+  - {title: "Website"}
 
   
 theme: jekyll-theme-minimal
